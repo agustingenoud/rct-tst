@@ -2,7 +2,7 @@
   "name": "tania-tut",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://agustingneoud.github.io/rct-tst",
+  "homepage": "https://agustingenoud.github.io/rct-tst",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
